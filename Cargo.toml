@@ -1,0 +1,8 @@
+[package]
+name = "alastor"
+description = "A GUI tool for intercepting and inspecting HTTP and gRPC traffic"
+license = "MIT"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
